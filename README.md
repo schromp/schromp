@@ -9,12 +9,8 @@
 - currently a student at [uni-due](https://www.uni-due.de/)
 - always trying to improve my tooling and skills (im a vim pleb)
 - like to try out new technologies
+- my favourite movie is [surfs up](https://www.imdb.com/title/tt0423294/)
   
-- ⭐ currently working on **web-development**
-- 💀 mostly working on **private repositories**
-- 👾 a **student** working his way around things
-  
-<h2> / current skills / </h2>
   
 <div align="right">
   </div>
