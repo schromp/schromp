@@ -1,7 +1,7 @@
-<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
-
 <div>
 
+  <h1> / Schromp / </h1>
+  
 <img align="right" width="400" alt="Shimarin" src="https://static.wikia.nocookie.net/sonypicturesanimation/images/f/f3/Tumblr_oox5piQfux1tr6wqbo5_250.jpg/revision/latest?cb=20170424231514"/>
 
 <h2> / about me /</h2>
