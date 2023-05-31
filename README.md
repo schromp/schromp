@@ -10,9 +10,10 @@
 
 - currently a student at [uni-due](https://www.uni-due.de/)
 - always trying to improve my tooling and skills
-  - yes vim and arch
+  - neovim
+  - nixos
+  - Hyprland
 - like to try out new technologies
-- currently trying to go more in depth into c++
 - my favourite movie is [surfs up](https://www.imdb.com/title/tt0423294/)
   
   
