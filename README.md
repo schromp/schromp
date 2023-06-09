@@ -12,7 +12,7 @@
 - always trying to improve my tooling and skills
   - neovim
   - nixos
-  - Hyprland
+  - hyprland
 - like to try out new technologies
 - my favourite movie is [surfs up](https://www.imdb.com/title/tt0423294/)
   
